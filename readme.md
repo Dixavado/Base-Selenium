@@ -60,45 +60,30 @@ O objetivo do script é acessar um site específico e mantê-lo aberto.
 
 * O script cria um objeto com algumas opções que o navegador deve usar, como se estivesse sendo usado por uma pessoa. Depois disso, ele adiciona uma opção que evita que o site perceba que o navegador está sendo controlado.
 
-Com tudo isso configurado, o script abre o navegador, acessa o site desejado e mantém ele aberto sem parar.
+Com tudo isso configurado, o script abre o navegador, acessa o site desejado e mantém ele aberto.
 
 ### Linguagem do Codigo
 
 Este e um codigo bastente simples que utiliza o Python como linguagem principal.
-Tambem utiliza as Lib do Selenium.
 
 * [![Python][Python.py]][Python-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Guia de Inicialização
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Esse é um guia simples para voce poder iniciar seu script.
 
-### Prerequisites
+### Requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Python 3 instalado
+* Biblioteca Selenium instalada
+* Google Chrome instalado
+* ChromeDriver instalado
 
-### Installation
+### Instalação
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Instale o Python 3 (caso não tenha instalado): [Python](https://www.python.org/downloads/)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
