@@ -1,11 +1,9 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <div align="center">
@@ -53,8 +51,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Esse script usa uma ferramenta chamada `Selenium` para controlar o navegador `Google Chrome`. 
 O objetivo do script é acessar um site específico e mantê-lo aberto.
@@ -117,6 +113,5 @@ Esse é um guia simples para voce poder iniciar seu script.
 [stars-url]: https://github.com/Dixavado/Base-Selenium/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/Dixavado/Base-Selenium/issues
-[product-screenshot]: https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg
 [Python.py]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org
