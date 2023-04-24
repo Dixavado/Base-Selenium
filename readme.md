@@ -36,14 +36,17 @@
   <summary>Conteudo</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#Sobre o projeto">Sobre o Projeto</a>
     </li>
     <li>
-      <a href="#getting-started">Guia de Inicialização</a>
+      <a href="#Guia de Inicialização">Guia de Inicialização</a>
       <ul>
-        <li><a href="#prerequisites">Requisitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
+        <li><a href="#Requisitos">Requisitos</a></li>
+        <li><a href="#Instalação">Instalação</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#Como usar">Como Usar</a>
     </li>
   </ol>
 </details>
@@ -84,25 +87,18 @@ Esse é um guia simples para voce poder iniciar seu script.
 ### Instalação
 
 1. Instale o Python 3 (caso não tenha instalado): [Python](https://www.python.org/downloads/)
-2. Clone the repo
+2. Instale a biblioteca Selenium executando o seguinte comando no terminal: 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   pip install selenium
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+3. Baixe e instale o Google Chrome: [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
+4. Baixe o ChromeDriver compatível com a versão do seu Google Chrome: [Chrome Driver](chromedriver.chromium.org/home)
+5. Descompacte o arquivo baixado e mova o arquivo 'chromedriver' para uma pasta de sua preferência.
+6. Altere a variável driver_path no script para apontar para o caminho onde o arquivo 'chromedriver' foi salvo.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Como Usar
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
